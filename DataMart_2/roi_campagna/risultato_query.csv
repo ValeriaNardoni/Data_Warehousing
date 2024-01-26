@@ -1,0 +1,101 @@
+id_utente,id_piattaforma,id_campagna,id_data,costo,profitto,ROI,timestamp,nome_x,cognome,email,contatto,demografia,età,nome_y,campagna,tipologia,anno,mese
+953,7,64,170,867,377,-11.91588785046729,2023-05-26T18:36:54Z,Christopher,Rivera,andrew55@example.org,001-751-501-2661,Smithfort,44,TikTok,Event Marketing,Canzone,2023,8
+548,1,89,170,383,750,101.61290322580643,2023-09-30T10:00:33Z,Mindy,Schwartz,dixonerin@example.com,(952)468-8340x01222,Watsonborough,78,Instagram,Event Marketing,Video,2023,8
+151,8,64,131,953,630,-20.454545454545457,2024-01-07T01:15:04Z,Jorge,Moody,williamschristopher@example.com,001-315-838-2981x989,Olsonshire,66,YouTube,Event Marketing,Canzone,2023,9
+299,0,64,140,698,435,-51.88053097345132,2023-12-05T16:32:35Z,Andrew,Ward,gmarshall@example.net,818.316.8919x66943,East Andrea,32,Facebook,Event Marketing,Canzone,2023,9
+547,2,64,282,566,521,-5.956678700361011,2023-08-19T07:24:33Z,John,Serrano,davisamy@example.com,271.849.6896,South Reginastad,45,Twitter,Event Marketing,Canzone,2023,4
+832,7,56,104,481,603,-24.53066332916145,2023-06-05T01:54:16Z,Stephanie,Dunn,juliasilva@example.net,(711)613-8861,West Matthew,42,TikTok,Influencer Marketing,Immagine,2023,10
+46,4,16,104,106,206,52.59259259259259,2023-07-14T10:26:14Z,Karen,Rodriguez,vsmith@example.com,001-920-417-3875,Deanmouth,60,Snapchat,Influencer Marketing,Canzone,2023,10
+562,1,93,104,840,346,-60.18411967779056,2023-08-20T04:09:28Z,Cassandra,Fernandez,joseph57@example.com,654-836-4629x5492,Hoopermouth,79,Instagram,Event Marketing,Canzone,2023,10
+510,4,56,307,348,535,137.77777777777777,2023-03-02T12:40:33Z,Stephanie,Reid,pjones@example.net,357-739-3496x46186,Lake Timothymouth,26,Snapchat,Influencer Marketing,Immagine,2023,3
+407,8,56,229,645,936,65.95744680851064,2023-03-19T16:07:51Z,Shannon,Brown,mary14@example.com,(262)309-8497,Jennifershire,61,YouTube,Influencer Marketing,Immagine,2023,6
+110,3,56,181,91,837,128.06539509536785,2023-11-29T14:32:47Z,Dawn,Villegas,daniellewells@example.org,(318)412-6059x2935,Crystalburgh,79,LinkedIn,Influencer Marketing,Immagine,2023,7
+518,1,26,181,625,874,300.91743119266056,2023-07-06T11:15:10Z,Debra,Cox,stephanieroberson@example.com,904-533-5733,South Theresahaven,38,Instagram,Lancio Prodotto,Video,2023,7
+971,1,56,265,380,363,4.310344827586207,2023-11-24T14:31:44Z,William,Edwards,brownbrandy@example.com,266-267-8659,Lovechester,68,Instagram,Influencer Marketing,Immagine,2023,5
+273,6,73,265,630,169,-82.57731958762886,2023-08-23T16:40:53Z,Heather,Wood,berrylaurie@example.net,292-742-8129x1442,West Leonard,48,Reddit,Event Marketing,Testo,2023,5
+429,7,14,275,897,376,-34.3804537521815,2023-07-21T00:24:52Z,David,Hunt,elizabeth13@example.net,+1-674-551-6355x681,Lake Holly,70,TikTok,Event Marketing,Immagine,2023,4
+71,5,30,275,460,246,-24.307692307692307,2023-12-30T21:55:36Z,Stephanie,Miller,derrick93@example.org,461-823-3088x8026,East Marissachester,60,Pinterest,Acquisizione Clienti,Video,2023,4
+706,7,29,347,91,246,-73.46278317152104,2023-09-29T10:28:08Z,John,Green,tfrazier@example.com,497.359.1208,Ashleyport,51,TikTok,Acquisizione Clienti,Testo,2023,2
+894,0,29,292,270,481,-34.73541383989145,2023-11-12T09:13:44Z,Zachary,Macias,mooremark@example.com,001-984-620-7724,Melissaburgh,72,Facebook,Acquisizione Clienti,Testo,2023,4
+240,0,29,13,270,876,18.86024423337856,2023-09-10T17:49:47Z,Veronica,Cole,elijahjoseph@example.com,+1-993-223-2620x236,Gonzalezmouth,36,Facebook,Acquisizione Clienti,Testo,2024,1
+575,2,29,113,825,943,1.3978494623655917,2023-08-19T05:05:42Z,Robert,Leon,hesscassie@example.org,+1-590-899-7212x8936,Daviston,78,Twitter,Acquisizione Clienti,Testo,2023,9
+64,7,100,197,127,78,-87.83151326053043,2023-10-14T03:18:49Z,Andrew,Gould,michaelglover@example.com,+1-293-434-4897x60067,Lake Omarton,46,TikTok,Retargeting,Video,2023,7
+460,4,100,38,681,260,-59.11949685534591,2023-05-26T19:12:01Z,Stephen,Thompson,jbarrera@example.com,221-980-1770,Lake Ericfurt,66,Snapchat,Retargeting,Video,2023,12
+964,6,100,294,972,952,14.975845410628018,2023-10-01T04:23:20Z,Jennifer,Dawson,thomasbridget@example.com,558-775-2479x364,South Jeremy,47,Reddit,Retargeting,Video,2023,4
+787,8,48,294,433,265,152.38095238095238,2023-11-25T15:41:06Z,Diane,Caldwell,rmaldonado@example.net,001-819-356-6946x34852,New Wendy,54,YouTube,Acquisizione Clienti,Video,2023,4
+916,7,66,29,142,236,-74.81323372465314,2023-07-10T08:50:30Z,Lisa,Elliott,ycurtis@example.com,549.430.7188x08097,Scotttown,70,TikTok,Acquisizione Clienti,Video,2023,12
+613,3,66,328,460,587,102.41379310344828,2023-08-13T15:10:25Z,Elizabeth,Beard,fernando39@example.org,357.987.1111x748,East Danielleport,43,LinkedIn,Acquisizione Clienti,Video,2023,2
+40,7,69,303,878,407,-51.60523186682521,2023-09-22T15:55:00Z,Scott,Mullins,barbarapowers@example.org,001-805-786-3699x0773,East Cherylville,24,TikTok,Lancio Prodotto,Immagine,2023,3
+529,4,69,89,412,582,178.4688995215311,2023-10-16T08:45:32Z,David,Ali,gary45@example.org,896-696-4529,Patrickberg,78,Snapchat,Lancio Prodotto,Immagine,2023,10
+561,0,69,337,953,694,6.769230769230769,2023-04-17T18:50:51Z,Jason,Romero,nnixon@example.net,(447)384-9040x8615,Lake Suzanne,64,Facebook,Lancio Prodotto,Immagine,2023,2
+170,7,57,64,867,771,655.8823529411765,2023-04-18T07:32:52Z,Stephanie,Combs,deangeorge@example.org,+1-843-488-4503x091,Lake Stephanie,21,TikTok,Event Marketing,Canzone,2023,11
+326,7,89,119,695,732,255.3398058252428,2023-04-04T01:28:04Z,Emily,Ferguson,samuelcooper@example.net,(410)558-8806x5696,Annehaven,77,TikTok,Event Marketing,Video,2023,9
+777,0,89,119,155,517,-14.827018121911037,2023-09-17T07:18:23Z,Evan,Smith,jessicafranklin@example.org,483.859.5995x65915,Knappville,70,Facebook,Event Marketing,Video,2023,9
+550,8,46,119,907,203,-30.95238095238096,2023-02-25T08:56:48Z,Jason,Martin,hopkinsdavid@example.com,971-733-9368x361,Jamesport,18,YouTube,Acquisizione Clienti,Testo,2023,9
+156,8,89,138,510,280,-48.9051094890511,2024-01-01T01:16:48Z,Alex,Price,molinarobert@example.org,+1-291-596-9132,Martinezville,63,YouTube,Event Marketing,Video,2023,9
+30,7,3,121,962,216,-69.83240223463687,2023-08-12T08:01:55Z,Tiffany,Farmer,amycollins@example.org,(282)711-2090,Lindaport,80,TikTok,Retargeting,Canzone,2023,9
+623,7,39,52,962,198,-56.09756097560976,2023-04-30T17:05:46Z,Rebecca,Jackson,kelly02@example.com,+1-396-429-3059x617,Yatesview,20,TikTok,Retargeting,Canzone,2023,11
+269,4,93,41,426,727,-17.667044167610417,2023-05-31T13:50:08Z,Scott,Potter,zgarcia@example.net,7793371889,Port Kelsey,71,Snapchat,Event Marketing,Canzone,2023,12
+607,3,93,151,812,954,125.531914893617,2023-06-10T16:52:00Z,Todd,Mccarty,stephenstevenson@example.net,(780)827-0169x342,Coxbury,30,LinkedIn,Event Marketing,Canzone,2023,8
+269,4,26,361,788,690,128.47682119205297,2023-10-11T13:21:01Z,Scott,Potter,zgarcia@example.net,7793371889,Port Kelsey,71,Snapchat,Lancio Prodotto,Video,2023,1
+32,1,7,361,383,755,25.207296849087896,2023-10-13T07:04:27Z,Bradley,Patel,sjackson@example.org,396.722.3839x80630,West Gregoryfurt,72,Instagram,Event Marketing,Video,2023,1
+96,4,74,196,681,889,835.7894736842105,2023-04-25T12:20:45Z,Heather,Smith,laurie65@example.com,(597)442-6884,Ronaldville,22,Snapchat,Retargeting,Video,2023,7
+75,4,30,193,388,387,-56.66293393057112,2023-01-24T04:37:32Z,Michael,Reid,christopherwall@example.com,+1-688-868-6094,Ryanbury,38,Snapchat,Acquisizione Clienti,Video,2023,7
+909,4,12,193,463,744,23.588039867109632,2023-12-14T21:09:59Z,Jeremy,Anderson,meganmorris@example.org,001-805-308-2381x8994,Lisashire,58,Snapchat,Event Marketing,Testo,2023,7
+546,4,42,245,662,543,100.36900369003688,2023-08-08T19:01:11Z,Michael,Beck,rnoble@example.com,814.844.2535x128,Apriltown,21,Snapchat,Acquisizione Clienti,Immagine,2023,5
+759,4,5,5,589,961,66.55112651646448,2023-06-16T01:15:21Z,Lisa,Johnson,wandasaunders@example.net,709-537-7035,Lake Benjaminville,59,Snapchat,Retargeting,Testo,2024,1
+677,8,5,3,442,764,-12.385321100917432,2023-12-07T23:02:58Z,Ashley,Reed,claymadison@example.com,218.854.5603x03737,Lake Deanna,49,YouTube,Retargeting,Testo,2024,1
+668,4,90,125,823,689,-23.52941176470588,2023-12-27T11:55:51Z,Russell,Hood,hmcintosh@example.com,583-682-1719x4103,West Michael,37,Snapchat,Acquisizione Clienti,Canzone,2023,9
+320,4,60,39,329,58,-88.11475409836066,2023-12-19T08:56:22Z,Timothy,Mullen,randy82@example.com,(587)951-2310,Krauseland,66,Snapchat,Acquisizione Clienti,Testo,2023,12
+93,0,60,338,270,899,702.6785714285714,2023-03-04T21:31:04Z,Abigail,Bryant,zjackson@example.com,892.973.5335x530,Allenstad,26,Facebook,Acquisizione Clienti,Testo,2023,2
+129,2,12,14,224,863,34.21461897356143,2023-10-14T11:09:38Z,Chad,Brown,rpowell@example.org,7082558267,Scottburgh,35,Twitter,Event Marketing,Testo,2024,1
+45,4,33,301,463,839,-4.114285714285714,2023-12-03T23:36:01Z,Alexandria,Fields,william53@example.org,750.455.0829,Port Roytown,68,Snapchat,Event Marketing,Testo,2023,3
+873,4,77,342,788,907,-3.407880724174654,2023-03-08T19:49:36Z,Amy,Benitez,pkidd@example.org,8654122635,New Rhonda,48,Snapchat,Lancio Prodotto,Video,2023,2
+20,6,72,342,362,415,22.4188790560472,2023-02-01T20:45:11Z,Adam,Boyd,nicholaschen@example.net,+1-620-406-4033x973,West Michael,24,Reddit,Acquisizione Clienti,Immagine,2023,2
+631,5,77,321,380,836,727.7227722772277,2024-01-04T18:09:20Z,Tonya,Marshall,katie32@example.org,921.203.4499x98426,New Jenniferton,66,Pinterest,Lancio Prodotto,Video,2023,3
+177,2,46,321,825,169,-81.57033805888769,2023-09-30T02:40:52Z,Laura,Chambers,amber82@example.org,936.695.8642x10032,Port Carlostown,32,Twitter,Acquisizione Clienti,Testo,2023,3
+526,0,77,158,212,798,261.0859728506788,2023-07-29T00:12:10Z,Michelle,Perez,kara72@example.org,+1-514-332-3518x68505,West Barbaramouth,24,Facebook,Lancio Prodotto,Video,2023,8
+454,8,88,276,907,912,22.416107382550337,2023-10-27T21:46:14Z,Jennifer,Mccullough,michael13@example.com,+1-627-203-3159x2263,Cameronhaven,24,YouTube,Acquisizione Clienti,Testo,2023,4
+743,8,48,276,433,942,797.1428571428571,2023-09-27T15:37:26Z,Alicia,King,andersonaaron@example.com,521.575.3155x863,Stephensmouth,42,YouTube,Acquisizione Clienti,Video,2023,4
+450,3,88,79,503,363,-61.90975865687304,2023-10-09T07:30:48Z,Mark,Mccormick,alvaradomichelle@example.org,+1-903-884-1732x73704,Cynthiaview,61,LinkedIn,Acquisizione Clienti,Testo,2023,11
+470,8,63,103,510,667,666.6666666666667,2023-04-22T14:24:35Z,Kaitlyn,Williams,hendrickssheila@example.com,001-582-481-1915,Doyleborough,30,YouTube,Event Marketing,Video,2023,10
+450,8,4,258,727,486,-32.21757322175732,2024-01-19T07:02:31Z,Mark,Mccormick,alvaradomichelle@example.org,+1-903-884-1732x73704,Cynthiaview,61,YouTube,Lancio Prodotto,Testo,2023,5
+799,8,46,256,907,54,-81.63265306122449,2023-11-17T19:26:16Z,Heather,Frye,gina00@example.org,(567)832-7912,South Arthurport,58,YouTube,Acquisizione Clienti,Testo,2023,5
+231,5,46,68,721,690,5.182926829268292,2023-06-27T20:58:17Z,Paula,Richardson,davidhughes@example.net,371-372-0966,West Jasonborough,75,Pinterest,Acquisizione Clienti,Testo,2023,11
+706,8,40,215,391,699,275.80645161290323,2023-11-25T21:57:23Z,John,Green,tfrazier@example.com,497.359.1208,Ashleyport,51,YouTube,Event Marketing,Immagine,2023,6
+337,8,31,216,930,728,42.74509803921568,2023-06-19T14:47:21Z,Jeffrey,Johnson,matthew15@example.net,(708)503-2094,Schwartzview,72,YouTube,Event Marketing,Testo,2023,6
+162,0,31,247,980,892,-1.9780219780219777,2023-09-08T21:20:05Z,Kenneth,Moon,daviskaitlyn@example.com,7532650716,East Heather,52,Facebook,Event Marketing,Testo,2023,5
+420,8,21,102,882,225,9.223300970873789,2023-03-16T03:39:09Z,Mallory,Lowe,bjacobs@example.org,(786)417-1362,Port Jorge,49,YouTube,Lancio Prodotto,Canzone,2023,10
+570,8,79,78,391,411,-45.92105263157895,2023-10-29T17:54:14Z,Kevin,Bennett,christopher32@example.net,364.596.7269x72592,Byrdberg,22,YouTube,Event Marketing,Immagine,2023,11
+266,8,83,114,317,427,295.3703703703704,2023-06-20T05:22:20Z,Michelle,Owens,knappkayla@example.net,+1-636-271-7265,West Christopherport,34,YouTube,Lancio Prodotto,Immagine,2023,9
+58,8,76,2,442,974,136.98296836982968,2023-02-03T10:42:00Z,Cynthia,Richards,brobinson@example.com,756-213-6325x99822,Cassiebury,25,YouTube,Retargeting,Testo,2024,1
+629,6,76,270,715,54,-91.8552036199095,2023-08-04T03:30:58Z,Meagan,Edwards,deannamitchell@example.org,322-288-5632,New Reginaton,73,Reddit,Retargeting,Testo,2023,4
+767,3,13,97,690,546,1.486988847583643,2023-09-14T09:53:23Z,Thomas,Smith,kathrynroberts@example.com,592.878.8385,Port Saraborough,30,LinkedIn,Acquisizione Clienti,Canzone,2023,10
+705,3,24,9,309,193,-74.09395973154362,2023-12-16T09:33:49Z,Ariel,Valencia,bwolfe@example.net,001-634-285-3603x799,Villahaven,70,LinkedIn,Lancio Prodotto,Immagine,2024,1
+148,3,23,223,152,867,1.048951048951049,2023-11-10T13:22:57Z,Dylan,Love,jacksonangela@example.net,001-695-661-3668x250,Lake Lisaburgh,60,LinkedIn,Lancio Prodotto,Testo,2023,6
+715,3,70,146,781,780,400.0,2023-06-29T17:38:50Z,Justin,Hopkins,bonnie93@example.net,803-869-2607,West Andreabury,77,LinkedIn,Event Marketing,Video,2023,8
+968,3,95,251,456,636,-20.79701120797011,2023-09-20T16:50:13Z,Matthew,Young,vclay@example.net,(496)429-3289x00833,Josefort,59,LinkedIn,Lancio Prodotto,Video,2023,5
+18,3,95,213,456,659,-17.932752179327522,2023-09-11T15:11:41Z,Ann,Daniels,uevans@example.com,(720)285-3296,North Jennifer,39,LinkedIn,Lancio Prodotto,Video,2023,6
+744,3,37,313,309,506,19.058823529411764,2023-07-30T19:16:27Z,Stephanie,Richards,jesus48@example.com,830-469-5688x1594,South Michael,72,LinkedIn,Lancio Prodotto,Immagine,2023,3
+905,5,72,65,279,317,-39.61904761904762,2023-05-06T20:24:42Z,Debbie,Williams,morrisonjeffrey@example.org,+1-603-887-3365x427,Stevenberg,21,Pinterest,Acquisizione Clienti,Immagine,2023,11
+21,2,20,65,896,754,32.04903677758319,2023-09-02T01:23:50Z,Sean,Ellison,cgreen@example.com,+1-515-200-0425x330,Harrisbury,76,Twitter,Retargeting,Video,2023,11
+103,5,19,287,666,531,190.1639344262295,2023-03-29T10:13:53Z,Anthony,Houston,ashley27@example.net,9748665686,Port Sallyview,21,Pinterest,Retargeting,Immagine,2023,4
+509,5,2,195,863,344,-62.56800870511425,2023-07-30T09:52:59Z,Michael,Yang,markberry@example.net,981-520-1755x424,Port Claudia,30,Pinterest,Retargeting,Testo,2023,7
+882,2,2,219,351,657,-17.150063051702396,2023-10-25T22:16:02Z,Christine,Walker,wayne19@example.org,(477)959-6372x305,Lake Brandy,72,Twitter,Retargeting,Testo,2023,6
+28,0,17,362,241,419,9.68586387434555,2023-04-10T10:07:16Z,Nathaniel,Clark,devinhall@example.org,001-896-250-1354,Port Valeriehaven,80,Facebook,Acquisizione Clienti,Canzone,2023,1
+886,0,8,318,953,127,-82.16292134831461,2023-10-06T02:39:27Z,Patricia,Price,russelljose@example.com,587.970.3337x89021,South Danielport,80,Facebook,Lancio Prodotto,Immagine,2023,3
+408,0,36,83,363,589,-21.986754966887418,2023-06-08T03:06:45Z,Sarah,Hancock,teresajennings@example.org,690.807.9191,Grayfurt,76,Facebook,Retargeting,Testo,2023,10
+203,0,86,298,241,466,39.52095808383233,2023-03-12T23:51:07Z,Robert,Sparks,gutierrezderek@example.net,(702)821-9152,Campbellview,75,Facebook,Acquisizione Clienti,Canzone,2023,3
+457,0,50,150,212,116,7.4074074074074066,2023-10-31T14:48:59Z,Mary,Ramos,annecoleman@example.org,001-729-677-5383x16226,East Ronald,79,Facebook,Lancio Prodotto,Video,2023,8
+755,0,22,260,353,391,99.48979591836736,2023-06-12T22:21:20Z,Linda,Pierce,joshua18@example.com,001-410-335-1859,Port Angelaville,49,Facebook,Lancio Prodotto,Testo,2023,5
+313,1,22,228,245,915,125.36945812807885,2023-02-03T21:37:34Z,Lawrence,Jordan,xthornton@example.com,(796)647-4537x36693,Martinport,43,Instagram,Lancio Prodotto,Testo,2023,6
+470,6,34,115,167,933,62.54355400696864,2023-09-17T13:21:43Z,Kaitlyn,Williams,hendrickssheila@example.com,001-582-481-1915,Doyleborough,30,Reddit,Retargeting,Immagine,2023,9
+228,6,97,50,369,955,5.408388520971302,2023-09-19T12:01:28Z,Matthew,Moore,xstewart@example.org,001-599-508-5743x56811,South Heatherville,68,Reddit,Influencer Marketing,Canzone,2023,12
+518,1,97,330,932,594,488.1188118811881,2023-02-06T22:14:12Z,Debra,Cox,stephanieroberson@example.com,904-533-5733,South Theresahaven,38,Instagram,Influencer Marketing,Canzone,2023,2
+491,2,20,15,896,321,-43.78283712784589,2023-07-09T20:08:22Z,Billy,White,jillwhitehead@example.org,001-962-924-7216x6232,South Zachary,39,Twitter,Retargeting,Video,2024,1
+17,2,32,42,528,777,52.95275590551181,2023-05-13T13:00:29Z,Ronald,Walters,paul52@example.net,+1-960-457-7840x05355,West Charlesmouth,22,Twitter,Lancio Prodotto,Immagine,2023,12
+349,2,15,130,94,526,157.84313725490196,2023-08-19T01:49:32Z,Mike,Marsh,harrisjames@example.org,469.748.3366,Munozstad,38,Twitter,Event Marketing,Immagine,2023,9
+453,1,85,40,932,355,-49.78783592644979,2023-06-02T22:51:49Z,Kristen,Obrien,ryannichole@example.net,421-726-6529x4448,Orozcomouth,49,Instagram,Influencer Marketing,Canzone,2023,12
+911,1,9,205,959,974,41.36429608127721,2023-12-05T04:56:17Z,Darlene,Tran,yjohnson@example.com,+1-760-952-8605x406,Cookberg,75,Instagram,Acquisizione Clienti,Immagine,2023,6
+993,1,10,12,932,241,145.91836734693877,2024-01-13T06:39:59Z,Patricia,Williams,michelebrown@example.net,+1-500-961-5093,Gordonshire,73,Instagram,Influencer Marketing,Canzone,2024,1
+545,1,99,126,276,838,3.3292231812577064,2023-07-30T07:29:50Z,Daniel,Garcia,tflores@example.org,861.516.9247,Montgomeryberg,56,Instagram,Lancio Prodotto,Canzone,2023,9
